@@ -14,4 +14,3 @@ end
 
 lassie = Dog.new
 
-puts lassie.breed
