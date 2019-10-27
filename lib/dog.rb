@@ -2,16 +2,16 @@ class Dog
   # def initialize name
   # @name = name 
   # end
-   def name=(name)
-  @name= name
+   def name=(breed)
+  @breed= breed
   end
   
   def name
-    @name 
+    @breed
   end 
   
 end 
 
 lassie =Dog.new
-lassie.name = "Lassie"
-lassie.name
+lassie.breed = "Lassie"
+lassie.breed
