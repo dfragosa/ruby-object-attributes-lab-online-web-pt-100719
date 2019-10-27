@@ -14,4 +14,4 @@ end
 
 lassie =Dog.new
 lassie.breed = "Lassie"
-puts lassie
+puts lassie.breed
